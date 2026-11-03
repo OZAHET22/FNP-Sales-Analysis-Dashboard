@@ -1,0 +1,437 @@
+{
+  "metadata": {
+    "project_name": "FNP E-Commerce Sales Analytics",
+    "currency": "INR (\u20b9)",
+    "reporting_period": "FY 2023 (Jan 2023 - Dec 2023)"
+  },
+  "executive_summary": {
+    "total_revenue": 3520984,
+    "total_orders": 1000,
+    "total_units_sold": 3045,
+    "average_order_value": 3520.98,
+    "average_delivery_days": 5.53,
+    "unique_customers": 100,
+    "unique_products": 70,
+    "average_spend_per_customer": 35209.84,
+    "average_orders_per_customer": 10.0,
+    "gender_distribution": {
+      "Female": {
+        "revenue": 1730761,
+        "share_percentage": 49.16
+      },
+      "Male": {
+        "revenue": 1790223,
+        "share_percentage": 50.84
+      }
+    }
+  },
+  "monthly_trends": {
+    "Jan": {
+      "revenue": 95468,
+      "orders": 34,
+      "units": 92
+    },
+    "Feb": {
+      "revenue": 704509,
+      "orders": 213,
+      "units": 673
+    },
+    "Mar": {
+      "revenue": 511823,
+      "orders": 166,
+      "units": 474
+    },
+    "Apr": {
+      "revenue": 140393,
+      "orders": 40,
+      "units": 122
+    },
+    "May": {
+      "revenue": 150346,
+      "orders": 43,
+      "units": 139
+    },
+    "Jun": {
+      "revenue": 157913,
+      "orders": 45,
+      "units": 149
+    },
+    "Jul": {
+      "revenue": 135826,
+      "orders": 39,
+      "units": 117
+    },
+    "Aug": {
+      "revenue": 737389,
+      "orders": 165,
+      "units": 517
+    },
+    "Sep": {
+      "revenue": 136938,
+      "orders": 40,
+      "units": 116
+    },
+    "Oct": {
+      "revenue": 151619,
+      "orders": 39,
+      "units": 119
+    },
+    "Nov": {
+      "revenue": 449169,
+      "orders": 134,
+      "units": 410
+    },
+    "Dec": {
+      "revenue": 149591,
+      "orders": 42,
+      "units": 117
+    }
+  },
+  "occasion_breakdown": {
+    "Anniversary": {
+      "revenue": 674634,
+      "orders": 205,
+      "avg_order_value": 3290.9,
+      "revenue_share": 19.16
+    },
+    "Raksha Bandhan": {
+      "revenue": 631585,
+      "orders": 132,
+      "avg_order_value": 4784.73,
+      "revenue_share": 17.94
+    },
+    "All Occasions": {
+      "revenue": 586176,
+      "orders": 126,
+      "avg_order_value": 4652.19,
+      "revenue_share": 16.65
+    },
+    "Holi": {
+      "revenue": 574682,
+      "orders": 180,
+      "avg_order_value": 3192.68,
+      "revenue_share": 16.32
+    },
+    "Birthday": {
+      "revenue": 408194,
+      "orders": 149,
+      "avg_order_value": 2739.56,
+      "revenue_share": 11.59
+    },
+    "Valentine's Day": {
+      "revenue": 331930,
+      "orders": 113,
+      "avg_order_value": 2937.43,
+      "revenue_share": 9.43
+    },
+    "Diwali": {
+      "revenue": 313783,
+      "orders": 95,
+      "avg_order_value": 3302.98,
+      "revenue_share": 8.91
+    }
+  },
+  "category_breakdown": {
+    "Colors": {
+      "revenue": 1005645,
+      "orders": 273,
+      "units_sold": 810,
+      "avg_unit_price": 1235.27,
+      "revenue_share": 28.56
+    },
+    "Soft Toys": {
+      "revenue": 740831,
+      "orders": 166,
+      "units_sold": 503,
+      "avg_unit_price": 1483.66,
+      "revenue_share": 21.04
+    },
+    "Sweets": {
+      "revenue": 733842,
+      "orders": 171,
+      "units_sold": 541,
+      "avg_unit_price": 1363.35,
+      "revenue_share": 20.84
+    },
+    "Cake": {
+      "revenue": 329862,
+      "orders": 118,
+      "units_sold": 375,
+      "avg_unit_price": 873.24,
+      "revenue_share": 9.37
+    },
+    "Raksha Bandhan": {
+      "revenue": 297372,
+      "orders": 99,
+      "units_sold": 278,
+      "avg_unit_price": 1060.4,
+      "revenue_share": 8.45
+    },
+    "Plants": {
+      "revenue": 212281,
+      "orders": 99,
+      "units_sold": 306,
+      "avg_unit_price": 683.6,
+      "revenue_share": 6.03
+    },
+    "Mugs": {
+      "revenue": 201151,
+      "orders": 74,
+      "units_sold": 232,
+      "avg_unit_price": 861.62,
+      "revenue_share": 5.71
+    }
+  },
+  "day_of_week_trends": {
+    "Monday": {
+      "revenue": 461670,
+      "orders": 141
+    },
+    "Tuesday": {
+      "revenue": 677223,
+      "orders": 165
+    },
+    "Wednesday": {
+      "revenue": 415192,
+      "orders": 112
+    },
+    "Thursday": {
+      "revenue": 418354,
+      "orders": 130
+    },
+    "Friday": {
+      "revenue": 475447,
+      "orders": 143
+    },
+    "Saturday": {
+      "revenue": 444960,
+      "orders": 133
+    },
+    "Sunday": {
+      "revenue": 628138,
+      "orders": 176
+    }
+  },
+  "hourly_trends": {
+    "0": {
+      "revenue": 99400,
+      "orders": 33
+    },
+    "1": {
+      "revenue": 129309,
+      "orders": 39
+    },
+    "2": {
+      "revenue": 152940,
+      "orders": 42
+    },
+    "3": {
+      "revenue": 146810,
+      "orders": 39
+    },
+    "4": {
+      "revenue": 114700,
+      "orders": 29
+    },
+    "5": {
+      "revenue": 156198,
+      "orders": 43
+    },
+    "6": {
+      "revenue": 177211,
+      "orders": 45
+    },
+    "7": {
+      "revenue": 147749,
+      "orders": 51
+    },
+    "8": {
+      "revenue": 133617,
+      "orders": 34
+    },
+    "9": {
+      "revenue": 153678,
+      "orders": 49
+    },
+    "10": {
+      "revenue": 94985,
+      "orders": 29
+    },
+    "11": {
+      "revenue": 130287,
+      "orders": 35
+    },
+    "12": {
+      "revenue": 162394,
+      "orders": 43
+    },
+    "13": {
+      "revenue": 152340,
+      "orders": 39
+    },
+    "14": {
+      "revenue": 126406,
+      "orders": 42
+    },
+    "15": {
+      "revenue": 163586,
+      "orders": 47
+    },
+    "16": {
+      "revenue": 128797,
+      "orders": 38
+    },
+    "17": {
+      "revenue": 155373,
+      "orders": 43
+    },
+    "18": {
+      "revenue": 173118,
+      "orders": 48
+    },
+    "19": {
+      "revenue": 185771,
+      "orders": 53
+    },
+    "20": {
+      "revenue": 186426,
+      "orders": 47
+    },
+    "21": {
+      "revenue": 155466,
+      "orders": 48
+    },
+    "22": {
+      "revenue": 125912,
+      "orders": 40
+    },
+    "23": {
+      "revenue": 168511,
+      "orders": 44
+    }
+  },
+  "top_10_products": [
+    {
+      "product_id": 1,
+      "product_name": "Magnam Set",
+      "category": "Soft Toys",
+      "revenue": 121905,
+      "orders": 19,
+      "units": 63
+    },
+    {
+      "product_id": 55,
+      "product_name": "Dolores Gift",
+      "category": "Soft Toys",
+      "revenue": 106624,
+      "orders": 17,
+      "units": 56
+    },
+    {
+      "product_id": 47,
+      "product_name": "Harum Pack",
+      "category": "Colors",
+      "revenue": 101556,
+      "orders": 20,
+      "units": 62
+    },
+    {
+      "product_id": 14,
+      "product_name": "Deserunt Box",
+      "category": "Colors",
+      "revenue": 97665,
+      "orders": 17,
+      "units": 51
+    },
+    {
+      "product_id": 64,
+      "product_name": "Nostrum Box",
+      "category": "Soft Toys",
+      "revenue": 97656,
+      "orders": 18,
+      "units": 52
+    },
+    {
+      "product_id": 22,
+      "product_name": "Exercitationem Pack",
+      "category": "Soft Toys",
+      "revenue": 96701,
+      "orders": 17,
+      "units": 59
+    },
+    {
+      "product_id": 35,
+      "product_name": "Nam Gift",
+      "category": "Colors",
+      "revenue": 91385,
+      "orders": 18,
+      "units": 49
+    },
+    {
+      "product_id": 23,
+      "product_name": "Dignissimos Pack",
+      "category": "Sweets",
+      "revenue": 90036,
+      "orders": 27,
+      "units": 82
+    },
+    {
+      "product_id": 9,
+      "product_name": "Aperiam Box",
+      "category": "Colors",
+      "revenue": 89880,
+      "orders": 18,
+      "units": 56
+    },
+    {
+      "product_id": 42,
+      "product_name": "Expedita Gift",
+      "category": "Sweets",
+      "revenue": 88944,
+      "orders": 16,
+      "units": 51
+    }
+  ],
+  "top_10_cities": [
+    {
+      "city": "Imphal",
+      "orders": 29
+    },
+    {
+      "city": "Dhanbad",
+      "orders": 28
+    },
+    {
+      "city": "Kavali",
+      "orders": 27
+    },
+    {
+      "city": "Haridwar",
+      "orders": 24
+    },
+    {
+      "city": "Dibrugarh",
+      "orders": 21
+    },
+    {
+      "city": "Bidhannagar",
+      "orders": 21
+    },
+    {
+      "city": "Guntakal",
+      "orders": 20
+    },
+    {
+      "city": "North Dumdum",
+      "orders": 19
+    },
+    {
+      "city": "Bilaspur",
+      "orders": 18
+    },
+    {
+      "city": "Bhatpara",
+      "orders": 18
+    }
+  ]
+}
